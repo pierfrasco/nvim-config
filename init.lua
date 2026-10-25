@@ -10,3 +10,5 @@ require 'keymaps'
 require 'autocmds'
 
 require 'plugins'
+
+require 'diagnostics'
